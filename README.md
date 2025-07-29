@@ -1,5 +1,3 @@
-language="markdown"# Modern Calculator App
-
 A clean and modern calculator application built with Python and tkinter, featuring a sleek dark theme and intuitive user interface.
 
 ## Features
