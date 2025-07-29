@@ -159,7 +159,7 @@ class ModernCalculator:
             self.current = number
             self.result_displayed = False
         else:
-            if len(self.current) < 12:  # Limit input length
+            if len(self.current) < 12:  
                 self.current += number
         self.update_display()
     
