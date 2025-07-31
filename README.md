@@ -31,7 +31,7 @@ A clean and modern calculator application built with Python and tkinter, featuri
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/modern-calculator.git
+   git clone https://github.com/sadeepdeshal/modern-calculator.git
    cd modern-calculator
    ```
 
